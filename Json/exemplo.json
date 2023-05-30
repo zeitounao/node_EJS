@@ -1,0 +1,18 @@
+
+
+{
+    "nome": "eliezer",
+    "idade": "21",
+    "cidade": "sao paulo",
+    "livros_favoritos": [
+        "gregor",
+        "gente grande"
+    ],
+    "hobbies": {
+        "durante_a_semana": {
+            "dia": "trabalho",  
+            "noite": "estudo"
+        },
+        "fim_de_semana": "cinema"
+    }
+}
